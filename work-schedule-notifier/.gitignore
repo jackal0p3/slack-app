@@ -1,0 +1,7 @@
+dist
+package
+
+# 環境設定
+.env
+.env.*
+!.env.example
